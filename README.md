@@ -48,6 +48,7 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
+```scilab
 clc;
 clear;
 close();
@@ -98,6 +99,7 @@ disp("   Time(s)     Message(V)   Carrier(V)   DSB-SC(V)");
 for i = 1:10:length(t) // every 10th sample for readability
     mprintf("%10.6f   %10.4f   %10.4f   %10.4f\n", t(i), m(i), c(i), s(i));
 end
+```
 
 Output Graph
 <img width="1215" height="1104" alt="Screenshot 2025-11-06 104706" src="https://github.com/user-attachments/assets/5e4d085c-420c-4db0-b850-cadbdb36ddf2" />

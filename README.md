@@ -104,9 +104,9 @@ end
 Output Graph
 <img width="1215" height="1104" alt="Screenshot 2025-11-06 104706" src="https://github.com/user-attachments/assets/5e4d085c-420c-4db0-b850-cadbdb36ddf2" />
 
-
 Tablular Column
 ![WhatsApp Image 2025-11-06 at 10 48 21_0cf6d6df](https://github.com/user-attachments/assets/a783245a-effe-43ae-85e5-14af0ac40b4e)
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/c21fd5bf-2478-4258-8e57-443d3a7a1dcd" />
 
 
 Result
